@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple App</string>
+    <string name="output">Output</string>
+    <string name="input">Masukan Input</string>
+    <string name="undo_redo">Undo/Redo</string>
+    <string name="reverse">Reverse</string>
+    <string name="simple_app">Simple App</string>
+</resources>
